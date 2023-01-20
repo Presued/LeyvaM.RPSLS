@@ -1,0 +1,18 @@
+.homeImg{
+    background-image: url(../Asset/ScL.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.homeCol{
+    color: whitesmoke;
+}
+.MoD{
+    background-color: whitesmoke;
+}
+.mImg{
+    padding-left: 1rem;
+}
+.kImg{
+    padding-left: 7rem;
+}
